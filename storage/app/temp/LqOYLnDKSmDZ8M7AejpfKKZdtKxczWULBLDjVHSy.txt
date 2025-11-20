@@ -1,0 +1,5 @@
+contract_date,contract_number,executor_company,executor_name,executor_phone,client_company,client_name,client_email,service_description,service_price
+2024-01-15,ДОГ-001,ООО "Исполнитель",Иванов Иван,8-800-123-45-67,ООО "Заказчик",Петров Петр,client@example.com,Разработка и поддержка веб-сайта,50000
+2024-01-16,ДОГ-002,ООО "Исполнитель",Сидорова Мария,8-800-123-45-68,ИП "Клиент",Козлов Алексей,client2@example.com,Маркетинговые услуги,35000
+2024-01-17,ДОГ-003,ООО "Исполнитель",Смирнов Дмитрий,8-800-123-45-69,ООО "Партнер",Новикова Елена,client3@example.com,Бухгалтерское сопровождение,28000
+
